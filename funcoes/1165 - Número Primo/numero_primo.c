@@ -3,6 +3,7 @@
 
 void numero_primo() {
     int N, i, j, x, primo;
+
     // Solicita ao usuário a quantidade de casos
     printf("Digite a quantidade de casos: ");
     scanf("%d", &N);

@@ -1,5 +1,15 @@
 # Beecrowd Alg1 - Organização Modular de Exercícios 🚀
 
+# 🚨 ATENÇÃO URGENTE 🚨
+
+**Este projeto foi adaptado para rodar de forma modular, com menus e múltiplos arquivos.**
+
+➡️ **NÃO FUNCIONA DIRETAMENTE NO BEECROWD!**
+
+Se você copiar e colar o código de um exercício daqui para o Beecrowd, ele NÃO será aceito, pois depende de menus, includes personalizados e organização modular. Para submeter no Beecrowd, adapte o código para um único arquivo, sem menus ou includes personalizados.
+
+---
+
 ⚠️ Aviso Importante
 
 Este repositório foi adaptado para rodar de forma modular, com menus e organização em múltiplos arquivos. Por isso, **NÃO FUNCIONARÁ diretamente no Beecrowd** se você apenas copiar e colar o código de um exercício. Para submeter no Beecrowd, adapte o código para o formato solicitado pela plataforma (um único arquivo, sem menus ou includes personalizados).
