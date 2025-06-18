@@ -3,8 +3,11 @@
 
 void numero_primo() {
     int N, i, j, x, primo;
+    // Solicita ao usuário a quantidade de casos
+    printf("Digite a quantidade de casos: ");
     scanf("%d", &N);
     for(i = 0; i < N; i++) {
+        printf("Digite um número inteiro: ");
         scanf("%d", &x);
         primo = 1;
         if(x < 2) primo = 0;
@@ -17,4 +20,3 @@ void numero_primo() {
             printf("%d nao eh primo\n", x);
     }
 }
-

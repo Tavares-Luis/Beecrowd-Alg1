@@ -4,6 +4,8 @@
 void fibonacci_facil() {
     int N, i;
     int fib[46];
+    // Solicita ao usuário a quantidade de termos
+    printf("Digite a quantidade de termos da sequência de Fibonacci: ");
     scanf("%d", &N);
     fib[0] = 0;
     fib[1] = 1;
@@ -17,4 +19,3 @@ void fibonacci_facil() {
             printf("%d ", fib[i]);
     }
 }
-

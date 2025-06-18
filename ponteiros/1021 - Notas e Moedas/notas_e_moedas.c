@@ -1,4 +1,4 @@
-r#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 #include "notas_e_moedas.h"
 
@@ -8,6 +8,9 @@ void notas_e_moedas() {
     int moedas[] = {100, 50, 25, 10, 5, 1};
     int qtd, i;
     int *pnotas = notas, *pmoedas = moedas;
+
+    // Solicita ao usuário o valor a ser decomposto
+    printf("Digite o valor em reais (ex: 576.73): ");
     scanf("%lf", &valor);
     int centavos = (int)round(valor * 100);
     printf("NOTAS:\n");
@@ -26,4 +29,3 @@ void notas_e_moedas() {
         centavos -= qtd * pmoedas[i];
     }
 }
-

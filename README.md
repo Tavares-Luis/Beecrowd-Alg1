@@ -1,5 +1,9 @@
 # Beecrowd Alg1 - Organização Modular de Exercícios 🚀
 
+⚠️ Aviso Importante
+
+Este repositório foi adaptado para rodar de forma modular, com menus e organização em múltiplos arquivos. Por isso, **NÃO FUNCIONARÁ diretamente no Beecrowd** se você apenas copiar e colar o código de um exercício. Para submeter no Beecrowd, adapte o código para o formato solicitado pela plataforma (um único arquivo, sem menus ou includes personalizados).
+
 Este projeto reúne soluções para diversos exercícios do Beecrowd (URI Online Judge), organizados de forma modular e didática para facilitar o estudo de Algoritmos 1. O objetivo é servir como referência para estudantes, professores e interessados em programação estruturada em C.
 
 ## 🗂️ Estrutura do Projeto
